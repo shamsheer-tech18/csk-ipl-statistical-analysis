@@ -47,3 +47,31 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+Copy
+
+# R artifacts
+.Rhistory
+.Rdata
+.RData
+.Rproj.user/
+*.Rproj
+ 
+# Minitab temp files
+~$*
+ 
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+ 
+# Office temp files
+*.tmp
+*.bak
+~$*.docx
+~$*.pptx
+~$*.xlsx
+ 
+# Large files (if dataset exceeds GitHub limits)
+# data/raw/*.zip
