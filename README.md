@@ -178,17 +178,6 @@ ie6200-ipl-csk-statistical-analysis/
 
 ---
 
-## Team Members — Group 4
-
-| Name | Key Contributions |
-|------|-------------------|
-| Dheeraj Kumar Kusuma | Data collection, R programming, statistical analysis |
-| Shamsheer Hussain Syed | Data visualization, documentation, hypothesis testing |
-| Tanisha Kishan | Data cleaning, sampling distributions, confidence intervals |
-| Sai Ashok Madugula | ANOVA testing, Minitab analysis, presentation |
-
----
-
 ## Limitations
 
 - **Sample size:** Analysis limited to 76 matches over 5 seasons; a larger dataset spanning CSK's full IPL history (2008–2024) could strengthen conclusions.
